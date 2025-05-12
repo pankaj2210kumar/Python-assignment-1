@@ -1,6 +1,6 @@
 # Python Assignment – Basic Python Concepts
 
-This repository contains solutions for the Python Module 2 assignment.
+This repository contains solutions for the Python Module 1 & 2 assignment.
 
 ## Task 1: Basic Mathematical Operations
 - Takes two numbers as input
