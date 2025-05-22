@@ -1,1 +1,1 @@
-Summary of all assignment
+Summary of all assignment of Python program 
