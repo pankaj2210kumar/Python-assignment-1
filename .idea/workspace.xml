@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0004eb33-1ba1-4550-a68b-cd547f9727b8" name="Changes" comment="Final update: Assignment 1 and Assignment 2 added with README">
-      <change afterPath="$PROJECT_DIR$/Assignment_4/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_4/Sample.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_4/Task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_4/Task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_5/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_5/Task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_5/Task_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,18 +54,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Task 1.executor": "Run",
-    "Python.Task 2.executor": "Run",
-    "Python.Task_1.executor": "Run",
-    "Python.Task_2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Task 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\pankaj\PycharmProjects\PythonAssignment\Assignment_1" />
@@ -144,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747940372316</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Final update: Assignment 1 and Assignment 2 added with README">
+      <option name="closed" value="true" />
+      <created>1747986627980</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747986627980</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
